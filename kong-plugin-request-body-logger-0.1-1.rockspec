@@ -3,7 +3,7 @@ version = "0.1-1"
 supported_platforms = {"linux", "macosx"}
 source = {
   url = "git://github.com/peterbsmith2/kong-request-body-logger",
-  tag = "v0.1-1"
+  tag = "master"
 }
 description = {
   summary = "The Request Body Logger Plugin",
